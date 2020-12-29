@@ -4,5 +4,7 @@ Kubernetes  is an open source container orchestration platform that automates ma
 In other words, you can cluster together groups of hosts running Linux® containers, and Kubernetes helps you easily and efficiently manage those clusters.
 
 
-How does Kubernetes work?
+
+
+
 
